@@ -39,7 +39,7 @@ of hardware and software. We write the code that makes everything else run.
 > The best infrastructure is invisible.
 > Fast, stable, and out of your way.
 
-We believe systems software should be boring in the best sense —
+We believe systems software should be boring in the best sense -
 no surprises, no mystery failures, just hardware doing exactly what
 it's told, every time.
 
