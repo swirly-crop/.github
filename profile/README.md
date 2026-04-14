@@ -1,4 +1,4 @@
-# 🐉 Swirly Crop
+# [!Swirly Crop](Screenshot 2026-04-13 200213)
 
 > Low-level systems engineering --from bare metal to the browser.
 
