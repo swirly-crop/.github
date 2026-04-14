@@ -1,4 +1,4 @@
-# [!Swirly Crop](Screenshot 2026-04-13 200213](https://github.com/swirly-crop/.github/blob/main/profile/Screenshot%202026-04-13%20200213.png)
+# <img src="Screenshot 2026-04-13 200213.png" alt="swirly-crop logo" width="420">
 
 > Low-level systems engineering --from bare metal to the browser.
 
