@@ -45,9 +45,7 @@ it's told, every time.
 
 ## Get In Touch
 
-- 📧 hello@swirlycrop.dev
-- 🌐 swirlycrop.dev
-- 🐦 @swirlycrop
+- 📧 sacehenry@gmail.com
 
 ---
 
